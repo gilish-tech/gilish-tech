@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a versatile professional with experience in Data Science, Web Development, and Blockchain Development. With expertise in statistical analysis, machine learning algorithms, web frameworks, and blockchain platforms, I am skilled in delivering innovative solutions that meet the needs of clients. I am passionate about staying up-to-date with the latest technologies and enjoy collaborating with others to develop cutting-edge solutions.
+Versatile data scientist and web developer specializing in crafting innovative solutions through data-driven insights and advanced web technologies.
 
 
 ## 🌐 Socials:
