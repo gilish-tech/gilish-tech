@@ -10,7 +10,6 @@ Versatile data scientist and web developer specializing in crafting innovative s
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilbert&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gilish-tech&theme=gruvbox&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilish-tech&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=izam-mohammed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
