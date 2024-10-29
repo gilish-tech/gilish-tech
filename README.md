@@ -12,7 +12,7 @@ Versatile data scientist and web developer specializing in crafting innovative s
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gilish-tech&theme=gruvbox&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=izam-mohammed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=KeithGalli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gilbert&icon=0&color=0)](https://visitcount.itsvg.in)
