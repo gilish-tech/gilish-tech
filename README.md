@@ -1,5 +1,6 @@
 # 💫 About Me:
-Versatile data scientist and web developer specializing in crafting innovative solutions through data-driven insights and advanced web technologies.
+Full-Stack Developer building scalable web apps and AI-powered tools.
+Python / Next.js • FastAPI / Node.js • APIs • Automation • Cloud
 
 
 ## 🌐 Socials:
